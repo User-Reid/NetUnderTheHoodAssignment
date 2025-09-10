@@ -12,3 +12,4 @@ C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\NetUnderTheHoodAssignment\obj\Debu
 C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\NetUnderTheHoodAssignment\obj\Debug\net7.0\NetUnderTheHoodAssignment.pdb
 C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\NetUnderTheHoodAssignment\obj\Debug\net7.0\NetUnderTheHoodAssignment.genruntimeconfig.cache
 C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\NetUnderTheHoodAssignment\obj\Debug\net7.0\ref\NetUnderTheHoodAssignment.dll
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\NetUnderTheHoodAssignment\obj\Debug\net7.0\NetUnderTheHoodAssignment.sourcelink.json
