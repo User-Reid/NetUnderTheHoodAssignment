@@ -1,0 +1,14 @@
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\NetUnderTheHoodAssignment\bin\Debug\net7.0\NetUnderTheHoodAssignment.exe
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\NetUnderTheHoodAssignment\bin\Debug\net7.0\NetUnderTheHoodAssignment.deps.json
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\NetUnderTheHoodAssignment\bin\Debug\net7.0\NetUnderTheHoodAssignment.runtimeconfig.json
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\NetUnderTheHoodAssignment\bin\Debug\net7.0\NetUnderTheHoodAssignment.dll
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\NetUnderTheHoodAssignment\bin\Debug\net7.0\NetUnderTheHoodAssignment.pdb
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\NetUnderTheHoodAssignment\obj\Debug\net7.0\NetUnderTheHoodAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\NetUnderTheHoodAssignment\obj\Debug\net7.0\NetUnderTheHoodAssignment.AssemblyInfoInputs.cache
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\NetUnderTheHoodAssignment\obj\Debug\net7.0\NetUnderTheHoodAssignment.AssemblyInfo.cs
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\NetUnderTheHoodAssignment\obj\Debug\net7.0\NetUnderTheHoodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\NetUnderTheHoodAssignment\obj\Debug\net7.0\NetUnderTheHoodAssignment.dll
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\NetUnderTheHoodAssignment\obj\Debug\net7.0\refint\NetUnderTheHoodAssignment.dll
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\NetUnderTheHoodAssignment\obj\Debug\net7.0\NetUnderTheHoodAssignment.pdb
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\NetUnderTheHoodAssignment\obj\Debug\net7.0\NetUnderTheHoodAssignment.genruntimeconfig.cache
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\NetUnderTheHoodAssignment\obj\Debug\net7.0\ref\NetUnderTheHoodAssignment.dll
