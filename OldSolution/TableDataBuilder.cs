@@ -5,7 +5,7 @@ namespace CsvDataAccess.OldSolution;
 
 public class TableDataBuilder : ITableDataBuilder
 {
-     public ITableData Build(CsvData csvData)
+    public ITableData Build(CsvData csvData)
     {
         var resultRows = new List<Row>();
 
@@ -17,7 +17,6 @@ public class TableDataBuilder : ITableDataBuilder
             {
                 var column = csvData.Columns[columnIndex];
                 string valueAsString = row[columnIndex];
-
                 newRowData[column] = ConvertValueToTargetType(valueAsString);
             }
 
