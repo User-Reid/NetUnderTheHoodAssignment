@@ -11,7 +11,6 @@ public class Row
 
     public object GetAtColumn(string columnName)
     {
-
         return _data[columnName];
     }
 }
